@@ -1,0 +1,24 @@
+/*
+  Theme Name: PhenterMaxx
+  Theme URI:
+  Autor: Evgeny Khavana
+  Autor URI: https://www.havanadev.us
+  Description: This is PhenterMaxx.Net Theme
+  Version: 0.1 Alpha
+  License: GNU General Public License v2 or later
+  License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+  Tags: white, green, responsive, custom-header, one-column
+*/
+
+@font-face {
+  font-family: "Clear Sans Medium";
+  src: url('../fonts/ClearSans-Medium.ttf');
+}
+
+.main_bg{
+  width: 100%;
+  height: 4000px;
+  background: url('../images/main_bg.png') no-repeat;
+  border: 1px solid;
+}
+
